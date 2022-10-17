@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieLike/static/css/main.db4061de.css",
+    "main.js": "/MovieLike/static/js/main.e51d7546.js",
+    "index.html": "/MovieLike/index.html",
+    "main.db4061de.css.map": "/MovieLike/static/css/main.db4061de.css.map",
+    "main.e51d7546.js.map": "/MovieLike/static/js/main.e51d7546.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db4061de.css",
+    "static/js/main.e51d7546.js"
+  ]
+}
